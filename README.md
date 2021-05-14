@@ -1,6 +1,6 @@
 # Project 1 : Data Modeling with Postgres
 
-This porject creates a postgres database with "Sparkify" for a music application. The main object of this project to is model the data for running the optimised queries for song play analysis.
+This porject creates a postgres database for a music application called "Sparkify". The main object of this project to is model the data for running the optimised queries for song play analysis.
 The song related details and user log details are stored in JSON format. The data from these files are fetched and loaded into star and dimension table.
 
 # Schema design
