@@ -58,12 +58,6 @@ In the current example, details about songs, artist, users etc. i.e. When the so
 
 
 
-# Links or references of git hub projects
-https://github.com/mostafa1reda/Data-Modeling-with-PostgreSQL
-https://github.com/danielmt/udacity-dataeng-project1/blob/master/sql_queries.py
-https://www.postgresqltutorial.com/postgresql-joins/
-https://github.com/kenhanscombe/project-postgres
-
 
 
 
